@@ -109,7 +109,7 @@
           "step": "Step1",
           "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.ad cum tempore. Voluptate!",
           "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?cs=srgb&dl=burrito-chicken-delicious-dinner-461198.jpg&fm=jpg"
-        },
+        }
       ]},
     {"id": 8, "name": "Cookie2", "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?cs=srgb&dl=burrito-chicken-delicious-dinner-461198.jpg&fm=jpg", "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem ratioue!",
       "steps": [
